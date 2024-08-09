@@ -1,1 +1,2 @@
 # Task-Tracker
+Develop a task tracker project using HTML, CSS, and JavaScript to help users manage their daily tasks efficiently. The application will allow users to add, edit, and delete tasks, as well as mark them as complete. JavaScript will handle the dynamic functionality, such as updating the task list in real-time and storing tasks locally in the browser for persistence. CSS will be used to create a clean and intuitive interface, ensuring the task tracker is easy to navigate and visually appealing on both desktop and mobile devices.
